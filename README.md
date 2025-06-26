@@ -1,4 +1,4 @@
-# 📘 Belajar SQL dari Nol — Catatan Santai tapi Nendang!
+# 📘 Belajar SQL dari Nol  Catatan Santai tapi Nendang!
 
 > Repository ini berisi catatan saya selama belajar SQL dasar dari nol. Cocok buat kamu yang pengen ngerti gimana cara kerja database, query, relasi antar tabel, dan latihan CRUD (Create, Read, Update, Delete).
 
